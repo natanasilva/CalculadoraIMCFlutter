@@ -1,17 +1,39 @@
-# meu_imc
+## 🧐 Sobre o projeto
+Este projeto foi desenvolvido durante as aulas da disciplina Desenvolvimento de 
+Aplicativos Moveis com os alunos do 3º ano do Curso de Desenvolvimento de Sistemas da Escola Profissional Salomão Alves de Moura.
 
-A new Flutter project.
+## 👩‍💻 Tecnologias Usadas
 
-## Getting Started
+- Dart
+- Flutter
+- GitFlow
+- Git e GitHub
 
-This project is a starting point for a Flutter application.
+## 📲 Instalar o App Meus Exercícios
+Se você quiser testar o app em "produção", o apk está disponível abaixo: 
+[Clique aqui](https://play.google.com/store/apps/details?id=xyz.natanet.calculadoraimc)
 
-A few resources to get you started if this is your first Flutter project:
+# 🔛 Usando este repositório
+## Pré-requisitos 
+Para rodar este projeto no "modo desenvolvedor", você precisa ter o ambiente básico para rodar um App Flutter. Você pode encontrar essas informações [aqui](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Instalando 
+### Clonando o repositório
+```
+git clone https://github.com/natanasilva/CalculadoraIMCFlutter.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# CalculadoraIMCFlutter
+cd CalculadoraIMCFlutter
+```
+
+### Rodando 
+```
+flutter run
+```
+Mais informações [aqui](https://flutter.dev/docs/get-started/test-drive?tab=vscode).
+
+## 🤜🤛 Contribuições
+Sinta-se a vontade para mandar pull requests, será uma honra para mim! Você pode nos contactar em [natan@natanet.xyz](mailto:natan@natanet.xyz)
+
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/warleys14/S-Compras/blob/master/LICENSE) file for details.
